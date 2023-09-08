@@ -8,5 +8,6 @@ pip install -r requirements.txt
 ```
 ## run
 ```
-python roboticsGUI.py 
+python roboticsGUI.py
+
 ```
